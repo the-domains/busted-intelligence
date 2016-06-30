@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-30T17:07:20.712Z'
+datePublished: '2016-06-30T17:08:19.106Z'
+sourcePath: _posts/2016-06-30-animating-a-map.md
 isBasedOnUrl: 'http://www.camptocamp.com/en/actualite/animating-maps-openlayers-3/'
 keywords:
   - openlayers
@@ -14,7 +15,7 @@ keywords:
   - data
 related: []
 author: []
-dateModified: '2016-06-30T17:07:19.621Z'
+dateModified: '2016-06-30T17:07:38.211Z'
 title: Animating a map
 app_links: []
 publisher:
@@ -29,7 +30,6 @@ description: >-
   to visualize your data in a beautiful way.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-06-30-animating-a-map.md
 inFeed: true
 hasPage: false
 inNav: false
