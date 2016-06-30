@@ -6,9 +6,9 @@ color:
   saturation: 0.43119305628351867
   rhythmicContrast: 0.24045822909101844
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
 name: busted intelligence
